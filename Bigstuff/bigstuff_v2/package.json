@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "chalk": "^4.1.2",
-    "filesize": "^10.0.6",
-    "glob": "^9.3.2"
-  }
-}
