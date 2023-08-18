@@ -1,0 +1,15 @@
+Here are some commands you can use:
+
+/command args - description
+/help - displays this help information
+/lorem type amount - generates random lorem ipsum text
+/recipe - suggests a random recipe
+/dadjoke - tells a random dad joke
+/chuck - tells a random Chuck Norris joke
+/die password - kills the bot
+/text phone-num message - sends a text message to a phone number
+/sendmail to subject body - sends an email
+/translate text lang-code - translates text to a given language
+/weather city state - gives a local weather forecast
+/inspiration - gives inspirational quote
+/nba - gives start time of nba games under specified date, and does current date if no date specified
